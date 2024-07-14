@@ -1,0 +1,23 @@
+.header {
+    text-align: center; 
+  }
+  
+  .nav {
+    list-style-type: none;
+
+    justify-content: center; 
+  }
+  
+  .nav-item {
+    margin-right: 20px;
+  }
+  
+    .nav-item a {
+      color: rgb(10, 10, 10);
+      text-decoration: none;
+    }
+
+      .nav-item a.active {
+        font-weight: bold;
+      }
+  
